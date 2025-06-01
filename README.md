@@ -1,10 +1,12 @@
-<h1 align="center">Hi I'm Saurabh Bhandari: The code tracker | Hunting for the next big bug</h1>
-<h3 align="center">Code less, Create more</h3>
+<h1 ">About me: </h1>
+<p >Hi! Welcome to my GitHub profile! <br>
+I'm Saurabh Bhandari, a third-year Computer Science student at Gehu Dehradun.<br>
+  My journey began with a passion for problem-solving and technology, but over time, I discovered a deep love for software development and innovative coding solutions. I enjoy exploring new programming languages, working on interesting projects, and contributing to open-source communities.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhbhandariii" alt="saurabhbhandariii" /></a> </p>
 
 - 🔭 I’m currently working on [Detecify](https://github.com/saurabhbhandariii/truthblockchain.git)
-
+  
 - 🌱 I’m currently learning **AI Automation**
 
 - 👯 I’m looking to collaborate on [SkillSynergy](https://github.com/saurabhbhandariii/SkillSynergy.git)
