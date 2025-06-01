@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saurabh Bhandari: The code tracker | Hunting for the next big bug</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi I'm Saurabh Bhandari: The code tracker | Hunting for the next big bug</h1>
+<h3 align="center">Code less, Create more</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhbhandariii" alt="saurabhbhandariii" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **beforelyf07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uL2FUWj9csq1TAsxL-2QStKXUpIcguZ8/view?usp=sharing](https://drive.google.com/file/d/1uL2FUWj9csq1TAsxL-2QStKXUpIcguZ8/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uL2FUWj9csq1TAsxL-2QStKXUpIcguZ8/view?usp=sharing]((https://drive.google.com/file/d/1uL2FUWj9csq1TAsxL-2QStKXUpIcguZ8/view?usp=sharing))
 
 - ⚡ Fun fact **I’m a code hunter — chasing bugs for months. No trophies yet, just lots of coffee.**
 
