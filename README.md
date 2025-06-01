@@ -33,7 +33,6 @@
 ![image](https://github.com/user-attachments/assets/6c7ff333-4d0d-42ac-ba45-19d3dedca71c)
 ![image](https://github.com/user-attachments/assets/972123e3-437a-44b8-827a-f44198cb0abf)
 
-🔝 Top Contributed Repo
 ![image](https://github.com/user-attachments/assets/31897d61-be0f-4010-91ef-65f55788a79e)
 
 
